@@ -62,6 +62,6 @@
 
 <div> 
  
-  ![Snake animation](https://github.com/thyerryhenrique/thyerryhenriue/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thyerryhenrique/thyerryhenrique/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
