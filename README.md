@@ -1,5 +1,5 @@
 <h1 align="center">< Olá, meu nome é Thyerry Henrique /></h1>
-<h4 align="justify">Sou cursante de Engenharia Mecatrônica e formado em Técnico de Informática, gosto muito trabalhar com tecnologia em geral, porém em especial desenvolvendo soluções em ReactJS, React-Native, Python e Programação de Sistemas Embarcados. Busco me aprimorar constantemente em Programação, Hardware, Eletrônica, Robótica e Automação. Meu hobby preferido é desenvolver projetos integrando a Programação e Eletrônica para fazer automações, simuladores e robôs, principalmente utilizando plataformas de prototipagem como o ESP32 e Arduino.</h4>
+<h4 align="justify">Sou cursante de Engenharia Mecatrônica e formado em Técnico de Informática, gosto muito trabalhar com tecnologia em geral, porém em especial desenvolvendo soluções em React-Native, ReactJS e Programação de Sistemas Embarcados. Busco me aprimorar constantemente em Programação, Hardware, Eletrônica, Robótica e Automação. Meu hobby preferido é desenvolver projetos integrando a Programação e Eletrônica para fazer automações, simuladores e robôs, principalmente utilizando plataformas de prototipagem como o ESP32 e Arduino.</h4>
 
 <div>
 
