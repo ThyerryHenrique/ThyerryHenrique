@@ -4,8 +4,6 @@
 <div>
 
 <p>
-<h3 align="left">Meu Site:</h3>
-🌎<a href = "https:Thyerryhenrique.vercel.app"> Thyerryhenrique.vercel.app </a>
 <h3 align="left">Se conecte as minha redes:</h3>
 </p>
 
